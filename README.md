@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Victorfiallho/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/Victorfiallho/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 ## Array
 |  |
 | ------- |
@@ -25,4 +26,9 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Victorfiallho/LeetCode-Solutions/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/Victorfiallho/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Victorfiallho/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
