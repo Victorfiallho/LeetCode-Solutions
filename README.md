@@ -34,4 +34,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Victorfiallho/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Victorfiallho/LeetCode-Solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
