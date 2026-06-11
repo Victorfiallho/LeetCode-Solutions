@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Victorfiallho/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Victorfiallho/LeetCode-Solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,4 +48,16 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Victorfiallho/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+## Greedy
+|  |
+| ------- |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Victorfiallho/LeetCode-Solutions/tree/master/3691-maximum-total-subarray-value-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Victorfiallho/LeetCode-Solutions/tree/master/3691-maximum-total-subarray-value-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Victorfiallho/LeetCode-Solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 <!---LeetCode Topics End-->
