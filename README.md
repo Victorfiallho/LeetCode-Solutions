@@ -32,6 +32,7 @@
 | [0009-palindrome-number](https://github.com/Victorfiallho/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Victorfiallho/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/Victorfiallho/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Victorfiallho/LeetCode-Solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Memoization
 |  |
 | ------- |
@@ -60,4 +61,12 @@
 |  |
 | ------- |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Victorfiallho/LeetCode-Solutions/tree/master/3691-maximum-total-subarray-value-ii) |
+## Tree
+|  |
+| ------- |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Victorfiallho/LeetCode-Solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+## Depth-First Search
+|  |
+| ------- |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Victorfiallho/LeetCode-Solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 <!---LeetCode Topics End-->
